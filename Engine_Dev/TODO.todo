@@ -1,0 +1,21 @@
+TODO:
+###################################### STUFF TO DECIDE #################################
+#   -   pick color palette
+#=======================================================================================
+#   -   how does the campaign look?
+#   ----    map-design
+#   ----    what is the goal?
+#   ----    whats the player faction?
+######################################## STORY SHIT ####################################
+#   -   units spawn young, age as they kill shit
+#
+######################################### FEATURES #####################################
+#   +   implement spatial hashing as static class
+#   +   same with camera
+#   -   implement unit_spawn_grid for both players
+#   -   make camera selection rect be displayed while player holds down
+#
+######################################### GAMEPLAY #####################################
+#   -   cannibal faction ->
+#   ----   slave unit. can be eaten by meatier units to...get some heal (oder so)
+#
